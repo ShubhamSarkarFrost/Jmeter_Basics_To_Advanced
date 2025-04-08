@@ -1,4 +1,4 @@
 cardType,creditCard,FirstName,LastName,billAddress1,billAddress2,billCity,billState,billZip,billCountry
-Visa,8.69947E+15,Sonia,Stokes ,1330 Huffman Rd,8th roadson avenue,"	Anchorage","	Alaska","	99515",USA
+Visa,8.70E+15,Sonia,Stokes ,1330 Huffman Rd,8th roadson avenue,"	Anchorage","	Alaska","	99515",USA
 American Express,"	344373018853032",Sibyl ,Satterfield ,920 S Boulder Hwy,8th Orange County,"	Henderson",Nevada,"	89015",USA
-MasterCard,2.32188E+15,Percival,Nitzsche,1830 E Parks Hwy,Omnicon Park,"	Wasilla","	Alaska",99654,USA
+MasterCard,2.32E+15,Percival,Nitzsche,1830 E Parks Hwy,Omnicon Park,"	Wasilla","	Alaska",99654,USA
